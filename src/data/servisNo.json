@@ -1,0 +1,513 @@
+[
+    {
+        "Not":"İşGünü : 1 , Cumartesi : 2 , Pazar : 3"
+    },
+    {
+        "hat_kodu_id":709,
+        "guntipi": {
+            "1":  [
+                {
+                    "servis_no": "4",
+                    "sira_no": 2
+                },
+                {
+                    "servis_no": "3",
+                    "sira_no": 2
+                },
+                {
+                    "servis_no": "1",
+                    "sira_no": 1
+                }
+            ] ,
+            "2":[
+                {
+                    "servis_no": "1",
+                    "sira_no": 1
+                },
+                {
+                    "servis_no": "2",
+                    "sira_no": 1
+                }
+            ],
+            "3":[
+                {
+                    "servis_no": "1",
+                    "sira_no": 1
+                }
+            ]
+        }
+    },
+    {
+        "hat_kodu_id":719,
+        "guntipi": {
+            "1":  [
+            {
+                "servis_no": "-37",
+                "sira_no": 28
+            },
+            {
+                "servis_no": "-35",
+                "sira_no": 27
+            },
+            {
+                "servis_no": "-33",
+                "sira_no": 26
+            },
+            {
+                "servis_no": "-15",
+                "sira_no": 11
+            },
+            {
+                "servis_no": "-17",
+                "sira_no": 14
+            },
+            {
+                "servis_no": "611",
+                "sira_no": 24
+            },
+            {
+                "servis_no": "-1",
+                "sira_no": 1
+            },
+            {
+                "servis_no": "-3",
+                "sira_no": 3
+            },
+            {
+                "servis_no": "-11",
+                "sira_no": 7
+            },
+            {
+                "servis_no": "617",
+                "sira_no": 10
+            },
+            {
+                "servis_no": "618",
+                "sira_no": 10
+            },
+            {
+                "servis_no": "619",
+                "sira_no": 2
+            },
+            {
+                "servis_no": "616",
+                "sira_no": 9
+            },
+            {
+                "servis_no": "615",
+                "sira_no": 9
+            },
+            {
+                "servis_no": "614",
+                "sira_no": 13
+            },
+            {
+                "servis_no": "613",
+                "sira_no": 13
+            },
+            {
+                "servis_no": "-23",
+                "sira_no": 18
+            },
+            {
+                "servis_no": "-21",
+                "sira_no": 17
+            },
+            {
+                "servis_no": "612",
+                "sira_no": 24
+            },
+            {
+                "servis_no": "627",
+                "sira_no": 22
+            },
+            {
+                "servis_no": "-31",
+                "sira_no": 25
+            },
+            {
+                "servis_no": "621",
+                "sira_no": 12
+            },
+            {
+                "servis_no": "620",
+                "sira_no": 2
+            },
+            {
+                "servis_no": "-19",
+                "sira_no": 15
+            },
+            {
+                "servis_no": "-29",
+                "sira_no": 23
+            },
+            {
+                "servis_no": "-27",
+                "sira_no": 21
+            },
+            {
+                "servis_no": "-25",
+                "sira_no": 20
+            },
+            {
+                "servis_no": "-13",
+                "sira_no": 8
+            },
+            {
+                "servis_no": "626",
+                "sira_no": 19
+            },
+            {
+                "servis_no": "628",
+                "sira_no": 22
+            },
+            {
+                "servis_no": "-9",
+                "sira_no": 6
+            },
+            {
+                "servis_no": "-7",
+                "sira_no": 5
+            },
+            {
+                "servis_no": "-5",
+                "sira_no": 4
+            },
+            {
+                "servis_no": "622",
+                "sira_no": 12
+            },
+            {
+                "servis_no": "623",
+                "sira_no": 16
+            },
+            {
+                "servis_no": "624",
+                "sira_no": 16
+            },
+            {
+                "servis_no": "625",
+                "sira_no": 19
+            }
+            ] ,
+            "2":[
+                {
+                    "servis_no": "-7",
+                    "sira_no": 4
+                },
+                {
+                    "servis_no": "-3",
+                    "sira_no": 2
+                },
+                {
+                    "servis_no": "-5",
+                    "sira_no": 3
+                },
+                {
+                    "servis_no": "-21",
+                    "sira_no": 11
+                },
+                {
+                    "servis_no": "624",
+                    "sira_no": 26
+                },
+                {
+                    "servis_no": "623",
+                    "sira_no": 26
+                },
+                {
+                    "servis_no": "-37",
+                    "sira_no": 19
+                },
+                {
+                    "servis_no": "613",
+                    "sira_no": 21
+                },
+                {
+                    "servis_no": "615",
+                    "sira_no": 22
+                },
+                {
+                    "servis_no": "617",
+                    "sira_no": 23
+                },
+                {
+                    "servis_no": "621",
+                    "sira_no": 25
+                },
+                {
+                    "servis_no": "-1",
+                    "sira_no": 1
+                },
+                {
+                    "servis_no": "611",
+                    "sira_no": 20
+                },
+                {
+                    "servis_no": "619",
+                    "sira_no": 24
+                },
+                {
+                    "servis_no": "-15",
+                    "sira_no": 8
+                },
+                {
+                    "servis_no": "-13",
+                    "sira_no": 7
+                },
+                {
+                    "servis_no": "-11",
+                    "sira_no": 6
+                },
+                {
+                    "servis_no": "-17",
+                    "sira_no": 9
+                },
+                {
+                    "servis_no": "-35",
+                    "sira_no": 18
+                },
+                {
+                    "servis_no": "-19",
+                    "sira_no": 10
+                },
+                {
+                    "servis_no": "-29",
+                    "sira_no": 15
+                },
+                {
+                    "servis_no": "-33",
+                    "sira_no": 17
+                },
+                {
+                    "servis_no": "-27",
+                    "sira_no": 14
+                },
+                {
+                    "servis_no": "-23",
+                    "sira_no": 12
+                },
+                {
+                    "servis_no": "-25",
+                    "sira_no": 13
+                },
+                {
+                    "servis_no": "-9",
+                    "sira_no": 5
+                },
+                {
+                    "servis_no": "-31",
+                    "sira_no": 16
+                }
+            ],
+            "3":[
+                {
+                    "servis_no": "-1",
+                    "sira_no": 1
+                },
+                {
+                    "servis_no": "-13",
+                    "sira_no": 7
+                },
+                {
+                    "servis_no": "-33",
+                    "sira_no": 17
+                },
+                {
+                    "servis_no": "-37",
+                    "sira_no": 19
+                },
+                {
+                    "servis_no": "-35",
+                    "sira_no": 18
+                },
+                {
+                    "servis_no": "-31",
+                    "sira_no": 16
+                },
+                {
+                    "servis_no": "-29",
+                    "sira_no": 15
+                },
+                {
+                    "servis_no": "-27",
+                    "sira_no": 14
+                },
+                {
+                    "servis_no": "-25",
+                    "sira_no": 13
+                },
+                {
+                    "servis_no": "-11",
+                    "sira_no": 6
+                },
+                {
+                    "servis_no": "-9",
+                    "sira_no": 5
+                },
+                {
+                    "servis_no": "-7",
+                    "sira_no": 4
+                },
+                {
+                    "servis_no": "-5",
+                    "sira_no": 3
+                },
+                {
+                    "servis_no": "-3",
+                    "sira_no": 2
+                },
+                {
+                    "servis_no": "611",
+                    "sira_no": 20
+                },
+                {
+                    "servis_no": "613",
+                    "sira_no": 21
+                },
+                {
+                    "servis_no": "614",
+                    "sira_no": 21
+                },
+                {
+                    "servis_no": "-21",
+                    "sira_no": 11
+                },
+                {
+                    "servis_no": "-19",
+                    "sira_no": 10
+                },
+                {
+                    "servis_no": "-17",
+                    "sira_no": 9
+                },
+                {
+                    "servis_no": "-15",
+                    "sira_no": 8
+                },
+                {
+                    "servis_no": "-23",
+                    "sira_no": 12
+                }
+            ]
+        }
+    },
+    {
+        "hat_kodu_id":608,
+        "guntipi": {
+            "1":  [
+                {
+                    "servis_no": "653",
+                    "sira_no": 14
+                },
+                {
+                    "servis_no": "669",
+                    "sira_no": 1
+                },
+                {
+                    "servis_no": "679",
+                    "sira_no": 6
+                },
+                {
+                    "servis_no": "655",
+                    "sira_no": 12
+                },
+                {
+                    "servis_no": "656",
+                    "sira_no": 12
+                },
+                {
+                    "servis_no": "657",
+                    "sira_no": 2
+                },
+                {
+                    "servis_no": "658",
+                    "sira_no": 2
+                },
+                {
+                    "servis_no": "654",
+                    "sira_no": 14
+                },
+                {
+                    "servis_no": "663",
+                    "sira_no": 8
+                },
+                {
+                    "servis_no": "665",
+                    "sira_no": 13
+                },
+                {
+                    "servis_no": "671",
+                    "sira_no": 11
+                },
+                {
+                    "servis_no": "673",
+                    "sira_no": 5
+                },
+                {
+                    "servis_no": "672",
+                    "sira_no": 11
+                },
+                {
+                    "servis_no": "675",
+                    "sira_no": 10
+                },
+                {
+                    "servis_no": "652",
+                    "sira_no": 4
+                },
+                {
+                    "servis_no": "651",
+                    "sira_no": 4
+                },
+                {
+                    "servis_no": "668",
+                    "sira_no": 7
+                },
+                {
+                    "servis_no": "680",
+                    "sira_no": 6
+                },
+                {
+                    "servis_no": "661",
+                    "sira_no": 3
+                },
+                {
+                    "servis_no": "667",
+                    "sira_no": 7
+                },
+                {
+                    "servis_no": "659",
+                    "sira_no": 9
+                },
+                {
+                    "servis_no": "660",
+                    "sira_no": 9
+                },
+                {
+                    "servis_no": "676",
+                    "sira_no": 10
+                }
+            ] ,
+            "2":[
+                {
+                    "servis_no": "665",
+                    "sira_no": 3
+                },
+                {
+                    "servis_no": "661",
+                    "sira_no": 1
+                },
+                {
+                    "servis_no": "663",
+                    "sira_no": 2
+                },
+                {
+                    "servis_no": "667",
+                    "sira_no": 4
+                }
+            ],
+            "3":[]
+        }
+    }
+]

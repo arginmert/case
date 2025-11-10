@@ -1,0 +1,128 @@
+[
+    {
+      "id": 5249872,
+      "garaj_adi": "AYAZAGAGARAJI",
+      "garaj_kodu": "G_AYZ",
+      "ase_garaj": "Ayazağa"
+    },
+    {
+      "id": 5249873,
+      "garaj_adi": "SAHINKAYAGARAJI",
+      "garaj_kodu": "G_SHK",
+      "ase_garaj": "Şahinkaya"
+    },
+    {
+      "id": 5249874,
+      "garaj_adi": "HASANPASAGARAJI",
+      "garaj_kodu": "G_HSP",
+      "ase_garaj": "Hasanpaşa"
+    },
+    {
+      "id": 5249875,
+      "garaj_adi": "KAGITHANEGARAJI",
+      "garaj_kodu": "G_KAG",
+      "ase_garaj": "Kağıthane"
+    },
+    {
+      "id": 5249876,
+      "garaj_adi": "IKITELLIGARAJI",
+      "garaj_kodu": "G_IKT",
+      "ase_garaj": "İkitelli"
+    },
+    {
+      "id": 5249877,
+      "garaj_adi": "Yunus (Park)",
+      "garaj_kodu": "G_YUN",
+      "ase_garaj": "Yunus"
+    },
+    {
+      "id": 5249879,
+      "garaj_adi": "SARIGAZIGARAJI",
+      "garaj_kodu": "G_SRG",
+      "ase_garaj": "Sarıgazi"
+    },
+    {
+      "id": 5249880,
+      "garaj_adi": "ANADOLUGARAJI",
+      "garaj_kodu": "G_AND",
+      "ase_garaj": "Anadolu"
+    },
+    {
+      "id": 5249881,
+      "garaj_adi": "EDIRNEKAPIGARAJI",
+      "garaj_kodu": "G_EDK",
+      "ase_garaj": "Edirnekapı"
+    },
+    {
+      "id": 5249882,
+      "garaj_adi": "KARTALGARAJI",
+      "garaj_kodu": "G_KAR",
+      "ase_garaj": "Kartal"
+    },
+    {
+      "id": 5249883,
+      "garaj_adi": "PENDIKGARAJI",
+      "garaj_kodu": "G_PDK",
+      "ase_garaj": "Pendik"
+    },
+    {
+      "id": 5249884,
+      "garaj_adi": "KURTKOYGARAJI",
+      "garaj_kodu": "G_KRT",
+      "ase_garaj": "Kurtkoy"
+    },
+    {
+      "id": 5249885,
+      "garaj_adi": "TOPKAPI(TT)",
+      "garaj_kodu": "G_TPK",
+      "ase_garaj": "Topkapı"
+    },
+    {
+      "id": 5249886,
+      "garaj_adi": "COBANCESMEGARAJI",
+      "garaj_kodu": "G_CBN",
+      "ase_garaj": "Çobançeşme"
+    },
+    {
+      "id": 5251067,
+      "garaj_adi": "IKITELLIISLETTIRMEGARAJI2",
+      "garaj_kodu": "G_ISL2",
+      "ase_garaj": "IKT2"
+    },
+    {
+      "id": 5250413,
+      "garaj_adi": "SAMANDIRA PARK GARAJI",
+      "garaj_kodu": "G_SMN",
+      "ase_garaj": "Samandıra"
+    },
+    {
+      "id": 50001,
+      "garaj_adi": "KARTEPE",
+      "garaj_kodu": "G_KTP",
+      "ase_garaj": "Kartepe"
+    },
+    {
+      "id": 50002,
+      "garaj_adi": "IKITELLIISLETTIRMEGARAJI",
+      "garaj_kodu": "G_ISL1",
+      "ase_garaj": "IKTISLTRME"
+    },
+    {
+      "id": 5250625,
+      "garaj_adi": "ADALAR",
+      "garaj_kodu": "G_ADA",
+      "ase_garaj": "Adalar"
+    },
+    {
+      "id": 50003,
+      "garaj_adi": "GÜRPINAR GARAJI",
+      "garaj_kodu": "G_GRP",
+      "ase_garaj": "Gürpınar"
+    },
+    {
+      "id": 5251707,
+      "garaj_adi": "SULTANGAZİ GARAJI",
+      "garaj_kodu": "G_STGZ",
+      "ase_garaj": "Sultangazi"
+    }
+  ]

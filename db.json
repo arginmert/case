@@ -1,0 +1,1631 @@
+{
+  "aracTipleri": [
+    {
+      "id": "1",
+      "name": "Elektrikli",
+      "operatortip": "İETT",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "2",
+      "name": "Körüklü",
+      "operatortip": "İETT",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "3",
+      "name": "Solo",
+      "operatortip": "İETT",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "4",
+      "name": "OAŞ",
+      "operatortip": "OAŞ",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "5",
+      "name": "ÖHO",
+      "operatortip": "ÖHO",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "6",
+      "name": "ÖÇK",
+      "operatortip": "ÖHO",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "8",
+      "name": "Solo",
+      "operatortip": "OAŞ",
+      "aktif": "Aktif"
+    }
+  ],
+  "servisTipleri": [
+    {
+      "id": "1",
+      "name": "Ara Dinlen",
+      "operatortip": "İETT",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "2",
+      "name": "Gareli",
+      "operatortip": "İETT",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "3",
+      "name": "Normal",
+      "operatortip": "İETT",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "4",
+      "name": "Tek Şof A",
+      "operatortip": "İETT",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "5",
+      "name": "Tek Şof S",
+      "operatortip": "İETT",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "6",
+      "name": "ÖHO",
+      "operatortip": "ÖHO",
+      "aktif": "Aktif"
+    },
+    {
+      "id": "6",
+      "name": "OAŞ",
+      "operatortip": "OAŞ",
+      "aktif": "Aktif"
+    },
+    {
+      "name": "Deneme",
+      "operatortip": "deneme",
+      "aktif": "Aktif",
+      "id": "4b14"
+    }
+  ],
+  "gunTipleri": [
+    {
+      "name": "İş Günü",
+      "aktif": "Pasif",
+      "guntipi": "I",
+      "id": "1"
+    },
+    {
+      "name": "Cumartesi",
+      "aktif": "Pasif",
+      "guntipi": "CT",
+      "id": "2"
+    },
+    {
+      "name": "Pazar",
+      "aktif": "Pasif",
+      "guntipi": "PA",
+      "id": "3"
+    },
+    {
+      "id": "031b",
+      "name": "deneme",
+      "aktif": "Pasif",
+      "guntipi": "ceq"
+    }
+  ],
+  "gar": [
+    {
+      "id": "6171286",
+      "gar_adi": "HAREM",
+      "gar_kodu": "800871"
+    },
+    {
+      "id": "6171287",
+      "gar_adi": "TEPEÜSTÜ",
+      "gar_kodu": "800881"
+    },
+    {
+      "id": "6171288",
+      "gar_adi": "ÜSKÜDAR PERONLAR",
+      "gar_kodu": "800891"
+    },
+    {
+      "id": "6505376",
+      "gar_adi": "CEVİZLİ PERONLAR",
+      "gar_kodu": "801351"
+    },
+    {
+      "id": "6505392",
+      "gar_adi": "NECİP FAZIL METRO",
+      "gar_kodu": "801361"
+    }
+  ],
+  "garaj": [
+    {
+      "id": "5249872",
+      "garaj_adi": "AYAZAGAGARAJI",
+      "garaj_kodu": "G_AYZ",
+      "ase_garaj": "Ayazağa"
+    },
+    {
+      "id": "5249873",
+      "garaj_adi": "SAHINKAYAGARAJI",
+      "garaj_kodu": "G_SHK",
+      "ase_garaj": "Şahinkaya"
+    },
+    {
+      "id": "5249874",
+      "garaj_adi": "HASANPASAGARAJI",
+      "garaj_kodu": "G_HSP",
+      "ase_garaj": "Hasanpaşa"
+    },
+    {
+      "id": "5249875",
+      "garaj_adi": "KAGITHANEGARAJI",
+      "garaj_kodu": "G_KAG",
+      "ase_garaj": "Kağıthane"
+    },
+    {
+      "id": "5249876",
+      "garaj_adi": "IKITELLIGARAJI",
+      "garaj_kodu": "G_IKT",
+      "ase_garaj": "İkitelli"
+    },
+    {
+      "id": "5249877",
+      "garaj_adi": "Yunus (Park)",
+      "garaj_kodu": "G_YUN",
+      "ase_garaj": "Yunus"
+    },
+    {
+      "id": "5249879",
+      "garaj_adi": "SARIGAZIGARAJI",
+      "garaj_kodu": "G_SRG",
+      "ase_garaj": "Sarıgazi"
+    },
+    {
+      "id": "5249880",
+      "garaj_adi": "ANADOLUGARAJI",
+      "garaj_kodu": "G_AND",
+      "ase_garaj": "Anadolu"
+    },
+    {
+      "id": "5249881",
+      "garaj_adi": "EDIRNEKAPIGARAJI",
+      "garaj_kodu": "G_EDK",
+      "ase_garaj": "Edirnekapı"
+    },
+    {
+      "id": "5249882",
+      "garaj_adi": "KARTALGARAJI",
+      "garaj_kodu": "G_KAR",
+      "ase_garaj": "Kartal"
+    },
+    {
+      "id": "5249883",
+      "garaj_adi": "PENDIKGARAJI",
+      "garaj_kodu": "G_PDK",
+      "ase_garaj": "Pendik"
+    },
+    {
+      "id": "5249884",
+      "garaj_adi": "KURTKOYGARAJI",
+      "garaj_kodu": "G_KRT",
+      "ase_garaj": "Kurtkoy"
+    },
+    {
+      "id": "5249885",
+      "garaj_adi": "TOPKAPI(TT)",
+      "garaj_kodu": "G_TPK",
+      "ase_garaj": "Topkapı"
+    },
+    {
+      "id": "5249886",
+      "garaj_adi": "COBANCESMEGARAJI",
+      "garaj_kodu": "G_CBN",
+      "ase_garaj": "Çobançeşme"
+    },
+    {
+      "id": "5251067",
+      "garaj_adi": "IKITELLIISLETTIRMEGARAJI2",
+      "garaj_kodu": "G_ISL2",
+      "ase_garaj": "IKT2"
+    },
+    {
+      "id": "5250413",
+      "garaj_adi": "SAMANDIRA PARK GARAJI",
+      "garaj_kodu": "G_SMN",
+      "ase_garaj": "Samandıra"
+    },
+    {
+      "id": "50001",
+      "garaj_adi": "KARTEPE",
+      "garaj_kodu": "G_KTP",
+      "ase_garaj": "Kartepe"
+    },
+    {
+      "id": "50002",
+      "garaj_adi": "IKITELLIISLETTIRMEGARAJI",
+      "garaj_kodu": "G_ISL1",
+      "ase_garaj": "IKTISLTRME"
+    },
+    {
+      "id": "5250625",
+      "garaj_adi": "ADALAR",
+      "garaj_kodu": "G_ADA",
+      "ase_garaj": "Adalar"
+    },
+    {
+      "id": "50003",
+      "garaj_adi": "GÜRPINAR GARAJI",
+      "garaj_kodu": "G_GRP",
+      "ase_garaj": "Gürpınar"
+    },
+    {
+      "id": "5251707",
+      "garaj_adi": "SULTANGAZİ GARAJI",
+      "garaj_kodu": "G_STGZ",
+      "ase_garaj": "Sultangazi"
+    }
+  ],
+  "guzargah": {
+    "gidis_yon": [
+      {
+        "id": 55906,
+        "depar_no": 0,
+        "ring_mi": false,
+        "guzergah_kodu": "ARN9_G_D0"
+      },
+      {
+        "id": 55829,
+        "depar_no": 0,
+        "ring_mi": false,
+        "guzergah_kodu": "SM11_G_D0"
+      },
+      {
+        "id": 56591,
+        "depar_no": 0,
+        "ring_mi": false,
+        "guzergah_kodu": "HS3_G_D0"
+      },
+      {
+        "id": 56593,
+        "depar_no": 0,
+        "ring_mi": false,
+        "guzergah_kodu": "MR54_G_D0"
+      },
+      {
+        "id": 55548,
+        "depar_no": 0,
+        "ring_mi": true,
+        "guzergah_kodu": "TM19_G_D0"
+      }
+    ],
+    "donus_yon": [
+      {
+        "id": 56544,
+        "depar_no": 0,
+        "ring_mi": false,
+        "guzergah_kodu": "10G_D_D0"
+      },
+      {
+        "id": 55934,
+        "depar_no": 0,
+        "ring_mi": false,
+        "guzergah_kodu": "SM5_D_D0"
+      },
+      {
+        "id": 56400,
+        "depar_no": 0,
+        "ring_mi": false,
+        "guzergah_kodu": "50Z_D_D0"
+      },
+      {
+        "id": 57255,
+        "depar_no": 0,
+        "ring_mi": false,
+        "guzergah_kodu": "132YS_D_D0"
+      },
+      {
+        "id": 53969,
+        "depar_no": 0,
+        "ring_mi": false,
+        "guzergah_kodu": "133TM_D_D0"
+      }
+    ]
+  },
+  "hatlar": [
+    {
+      "id": "709",
+      "hat_kodu": "1"
+    },
+    {
+      "id": "719",
+      "hat_kodu": "10"
+    },
+    {
+      "id": "608",
+      "hat_kodu": "10A"
+    }
+  ],
+  "servisNo": [
+    {
+      "Not": "İşGünü : 1 , Cumartesi : 2 , Pazar : 3",
+      "id": "3531"
+    },
+    {
+      "hat_kodu_id": 709,
+      "guntipi": {
+        "1": [
+          {
+            "servis_no": "4",
+            "sira_no": 2
+          },
+          {
+            "servis_no": "3",
+            "sira_no": 2
+          },
+          {
+            "servis_no": "1",
+            "sira_no": 1
+          }
+        ],
+        "2": [
+          {
+            "servis_no": "1",
+            "sira_no": 1
+          },
+          {
+            "servis_no": "2",
+            "sira_no": 1
+          }
+        ],
+        "3": [
+          {
+            "servis_no": "1",
+            "sira_no": 1
+          }
+        ]
+      },
+      "id": "343f"
+    },
+    {
+      "hat_kodu_id": 719,
+      "guntipi": {
+        "1": [
+          {
+            "servis_no": "-37",
+            "sira_no": 28
+          },
+          {
+            "servis_no": "-35",
+            "sira_no": 27
+          },
+          {
+            "servis_no": "-33",
+            "sira_no": 26
+          },
+          {
+            "servis_no": "-15",
+            "sira_no": 11
+          },
+          {
+            "servis_no": "-17",
+            "sira_no": 14
+          },
+          {
+            "servis_no": "611",
+            "sira_no": 24
+          },
+          {
+            "servis_no": "-1",
+            "sira_no": 1
+          },
+          {
+            "servis_no": "-3",
+            "sira_no": 3
+          },
+          {
+            "servis_no": "-11",
+            "sira_no": 7
+          },
+          {
+            "servis_no": "617",
+            "sira_no": 10
+          },
+          {
+            "servis_no": "618",
+            "sira_no": 10
+          },
+          {
+            "servis_no": "619",
+            "sira_no": 2
+          },
+          {
+            "servis_no": "616",
+            "sira_no": 9
+          },
+          {
+            "servis_no": "615",
+            "sira_no": 9
+          },
+          {
+            "servis_no": "614",
+            "sira_no": 13
+          },
+          {
+            "servis_no": "613",
+            "sira_no": 13
+          },
+          {
+            "servis_no": "-23",
+            "sira_no": 18
+          },
+          {
+            "servis_no": "-21",
+            "sira_no": 17
+          },
+          {
+            "servis_no": "612",
+            "sira_no": 24
+          },
+          {
+            "servis_no": "627",
+            "sira_no": 22
+          },
+          {
+            "servis_no": "-31",
+            "sira_no": 25
+          },
+          {
+            "servis_no": "621",
+            "sira_no": 12
+          },
+          {
+            "servis_no": "620",
+            "sira_no": 2
+          },
+          {
+            "servis_no": "-19",
+            "sira_no": 15
+          },
+          {
+            "servis_no": "-29",
+            "sira_no": 23
+          },
+          {
+            "servis_no": "-27",
+            "sira_no": 21
+          },
+          {
+            "servis_no": "-25",
+            "sira_no": 20
+          },
+          {
+            "servis_no": "-13",
+            "sira_no": 8
+          },
+          {
+            "servis_no": "626",
+            "sira_no": 19
+          },
+          {
+            "servis_no": "628",
+            "sira_no": 22
+          },
+          {
+            "servis_no": "-9",
+            "sira_no": 6
+          },
+          {
+            "servis_no": "-7",
+            "sira_no": 5
+          },
+          {
+            "servis_no": "-5",
+            "sira_no": 4
+          },
+          {
+            "servis_no": "622",
+            "sira_no": 12
+          },
+          {
+            "servis_no": "623",
+            "sira_no": 16
+          },
+          {
+            "servis_no": "624",
+            "sira_no": 16
+          },
+          {
+            "servis_no": "625",
+            "sira_no": 19
+          }
+        ],
+        "2": [
+          {
+            "servis_no": "-7",
+            "sira_no": 4
+          },
+          {
+            "servis_no": "-3",
+            "sira_no": 2
+          },
+          {
+            "servis_no": "-5",
+            "sira_no": 3
+          },
+          {
+            "servis_no": "-21",
+            "sira_no": 11
+          },
+          {
+            "servis_no": "624",
+            "sira_no": 26
+          },
+          {
+            "servis_no": "623",
+            "sira_no": 26
+          },
+          {
+            "servis_no": "-37",
+            "sira_no": 19
+          },
+          {
+            "servis_no": "613",
+            "sira_no": 21
+          },
+          {
+            "servis_no": "615",
+            "sira_no": 22
+          },
+          {
+            "servis_no": "617",
+            "sira_no": 23
+          },
+          {
+            "servis_no": "621",
+            "sira_no": 25
+          },
+          {
+            "servis_no": "-1",
+            "sira_no": 1
+          },
+          {
+            "servis_no": "611",
+            "sira_no": 20
+          },
+          {
+            "servis_no": "619",
+            "sira_no": 24
+          },
+          {
+            "servis_no": "-15",
+            "sira_no": 8
+          },
+          {
+            "servis_no": "-13",
+            "sira_no": 7
+          },
+          {
+            "servis_no": "-11",
+            "sira_no": 6
+          },
+          {
+            "servis_no": "-17",
+            "sira_no": 9
+          },
+          {
+            "servis_no": "-35",
+            "sira_no": 18
+          },
+          {
+            "servis_no": "-19",
+            "sira_no": 10
+          },
+          {
+            "servis_no": "-29",
+            "sira_no": 15
+          },
+          {
+            "servis_no": "-33",
+            "sira_no": 17
+          },
+          {
+            "servis_no": "-27",
+            "sira_no": 14
+          },
+          {
+            "servis_no": "-23",
+            "sira_no": 12
+          },
+          {
+            "servis_no": "-25",
+            "sira_no": 13
+          },
+          {
+            "servis_no": "-9",
+            "sira_no": 5
+          },
+          {
+            "servis_no": "-31",
+            "sira_no": 16
+          }
+        ],
+        "3": [
+          {
+            "servis_no": "-1",
+            "sira_no": 1
+          },
+          {
+            "servis_no": "-13",
+            "sira_no": 7
+          },
+          {
+            "servis_no": "-33",
+            "sira_no": 17
+          },
+          {
+            "servis_no": "-37",
+            "sira_no": 19
+          },
+          {
+            "servis_no": "-35",
+            "sira_no": 18
+          },
+          {
+            "servis_no": "-31",
+            "sira_no": 16
+          },
+          {
+            "servis_no": "-29",
+            "sira_no": 15
+          },
+          {
+            "servis_no": "-27",
+            "sira_no": 14
+          },
+          {
+            "servis_no": "-25",
+            "sira_no": 13
+          },
+          {
+            "servis_no": "-11",
+            "sira_no": 6
+          },
+          {
+            "servis_no": "-9",
+            "sira_no": 5
+          },
+          {
+            "servis_no": "-7",
+            "sira_no": 4
+          },
+          {
+            "servis_no": "-5",
+            "sira_no": 3
+          },
+          {
+            "servis_no": "-3",
+            "sira_no": 2
+          },
+          {
+            "servis_no": "611",
+            "sira_no": 20
+          },
+          {
+            "servis_no": "613",
+            "sira_no": 21
+          },
+          {
+            "servis_no": "614",
+            "sira_no": 21
+          },
+          {
+            "servis_no": "-21",
+            "sira_no": 11
+          },
+          {
+            "servis_no": "-19",
+            "sira_no": 10
+          },
+          {
+            "servis_no": "-17",
+            "sira_no": 9
+          },
+          {
+            "servis_no": "-15",
+            "sira_no": 8
+          },
+          {
+            "servis_no": "-23",
+            "sira_no": 12
+          }
+        ]
+      },
+      "id": "ee3d"
+    },
+    {
+      "hat_kodu_id": 608,
+      "guntipi": {
+        "1": [
+          {
+            "servis_no": "653",
+            "sira_no": 14
+          },
+          {
+            "servis_no": "669",
+            "sira_no": 1
+          },
+          {
+            "servis_no": "679",
+            "sira_no": 6
+          },
+          {
+            "servis_no": "655",
+            "sira_no": 12
+          },
+          {
+            "servis_no": "656",
+            "sira_no": 12
+          },
+          {
+            "servis_no": "657",
+            "sira_no": 2
+          },
+          {
+            "servis_no": "658",
+            "sira_no": 2
+          },
+          {
+            "servis_no": "654",
+            "sira_no": 14
+          },
+          {
+            "servis_no": "663",
+            "sira_no": 8
+          },
+          {
+            "servis_no": "665",
+            "sira_no": 13
+          },
+          {
+            "servis_no": "671",
+            "sira_no": 11
+          },
+          {
+            "servis_no": "673",
+            "sira_no": 5
+          },
+          {
+            "servis_no": "672",
+            "sira_no": 11
+          },
+          {
+            "servis_no": "675",
+            "sira_no": 10
+          },
+          {
+            "servis_no": "652",
+            "sira_no": 4
+          },
+          {
+            "servis_no": "651",
+            "sira_no": 4
+          },
+          {
+            "servis_no": "668",
+            "sira_no": 7
+          },
+          {
+            "servis_no": "680",
+            "sira_no": 6
+          },
+          {
+            "servis_no": "661",
+            "sira_no": 3
+          },
+          {
+            "servis_no": "667",
+            "sira_no": 7
+          },
+          {
+            "servis_no": "659",
+            "sira_no": 9
+          },
+          {
+            "servis_no": "660",
+            "sira_no": 9
+          },
+          {
+            "servis_no": "676",
+            "sira_no": 10
+          }
+        ],
+        "2": [
+          {
+            "servis_no": "665",
+            "sira_no": 3
+          },
+          {
+            "servis_no": "661",
+            "sira_no": 1
+          },
+          {
+            "servis_no": "663",
+            "sira_no": 2
+          },
+          {
+            "servis_no": "667",
+            "sira_no": 4
+          }
+        ],
+        "3": []
+      },
+      "id": "81ec"
+    }
+  ],
+  "detayli_bilgi": [
+    {
+      "gün_tipi_id": 1,
+      "hat_kodu_id": 709,
+      "servis_no": 1,
+      "detay": {
+        "orerler": [
+          {
+            "id": 85011,
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 3,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_G_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 1,
+            "sira_no": 1,
+            "saat": "2000-01-01T06:00:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "G",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 85012,
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 1,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 2,
+            "sira_no": 1,
+            "saat": "2000-01-01T06:35:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "D",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 85013,
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 3,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_G_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 3,
+            "sira_no": 2,
+            "saat": "2000-01-01T07:15:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "G",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 85014,
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 1,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 4,
+            "sira_no": 2,
+            "saat": "2000-01-01T08:30:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "D",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 85015,
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 2,
+              "depar_no": 2784,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D2784",
+              "guzergah_isareti": "F    "
+            },
+            "gorev_sira": 5,
+            "sira_no": 3,
+            "saat": "2000-01-01T16:00:00.000Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "FERAH CAD.",
+            "yon": "D",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 85016,
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 4,
+              "depar_no": 2783,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_G_D2783",
+              "guzergah_isareti": "F    "
+            },
+            "gorev_sira": 6,
+            "sira_no": 4,
+            "saat": "2000-01-01T16:25:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "FERAH CAD.",
+            "yon": "G",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 2,
+              "depar_no": 2784,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_g_D27545",
+              "guzergah_isareti": "F    "
+            },
+            "gorev_sira": 7,
+            "sira_no": 4,
+            "saat": "2000-01-01T18:00:00.000Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "YENİ GİDİŞ 1",
+            "yon": "G",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 2,
+              "depar_no": 2784,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D27545",
+              "guzergah_isareti": "F    "
+            },
+            "gorev_sira": 7,
+            "sira_no": 4,
+            "saat": "2000-01-01T19:00:00.000Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "YENİ DÖNÜŞ1",
+            "yon": "D",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 2,
+              "depar_no": 2784,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_g_D2754512",
+              "guzergah_isareti": "F    "
+            },
+            "gorev_sira": 7,
+            "sira_no": 4,
+            "saat": "2000-01-01T18:00:00.000Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "YENİ GİDİŞ 3",
+            "yon": "G",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 2,
+              "depar_no": 2784,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_g_D2754512",
+              "guzergah_isareti": "F    "
+            },
+            "gorev_sira": 7,
+            "sira_no": 4,
+            "saat": "2000-01-01T19:00:00.000Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "YENİ DÖNÜŞ 2",
+            "yon": "D",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 85017,
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "guzergah": {
+              "id": 2,
+              "depar_no": 2784,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D2784",
+              "guzergah_isareti": "F    "
+            },
+            "gorev_sira": 7,
+            "sira_no": 4,
+            "saat": "2000-01-01T17:45:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "FERAH CAD.",
+            "yon": "D",
+            "sefer_tipi": "S",
+            "plan": 1
+          }
+        ],
+        "servis_bilgiler": [
+          {
+            "id": 35,
+            "vardiya_tipi": "S",
+            "plan": 1,
+            "arac_tipi": {
+              "id": "8",
+              "arac_tipi": "Solo"
+            },
+            "servis_tipi": {
+              "id": "2",
+              "servis_tipi": "Gareli"
+            },
+            "servis": {
+              "id": 44425,
+              "servis_no": 1
+            },
+            "gar": {
+              "id": 6171286,
+              "gar_adi": "HAREM"
+            },
+            "garaj": {
+              "id": 5249880,
+              "ase_garaj": "Anadolu"
+            },
+            "sira_no": 1,
+            "servis_basi": "220051",
+            "servis_sonu": "220051",
+            "basl_saati": "2000-01-01T06:00:00Z",
+            "bitis_saati": "2000-01-01T18:50:00.000Z",
+            "mesai_dk": "540",
+            "garaj_cikis": "2000-01-01T05:35:00Z",
+            "garaj_varis": "2000-01-01T19:35:00.000Z",
+            "ara_dinlen_serv_bitis": "2000-01-01T09:30:00Z",
+            "ara_dinlen_gar_varis": "2000-01-01T09:40:00Z",
+            "ara_dinlen_gar_cikis": "2000-01-01T14:40:00Z",
+            "ara_dinlen_serv_basl": "2000-01-01T15:00:00Z",
+            "aciklama": "",
+            "aksam_garaj_cikis": null,
+            "aksam_servis_basl": null,
+            "aksam_servis_bitis": null,
+            "aksam_garaj_varis": null
+          }
+        ],
+        "servis_no_araliklar": [],
+        "hat_notlar": {
+          "id": 2,
+          "not_alani": "1- GAR YERİ HAREM'DİR.\r\n2-(F)İŞARETLİ SAATLER FERAH CADDESİNDEN GİDER."
+        },
+        "hat_bilgiler": {
+          "hat_tipi": "NORMAL",
+          "tarife": "İNDİRİMLİ",
+          "orer_sorumlusu": "MUZAFFER ALKAN",
+          "planlama_sefi": "ONUR KAYNAR",
+          "isletme_sefligi": "Üsküdar"
+        }
+      },
+      "id": "af2a"
+    },
+    {
+      "gün_tipi_id": 1,
+      "hat_kodu_id": 709,
+      "servis_no": 3,
+      "detay": {
+        "orerler": [
+          {
+            "id": 84996,
+            "servis": {
+              "id": 44421,
+              "servis_no": 3
+            },
+            "guzergah": {
+              "id": 4,
+              "depar_no": 2783,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_G_D2783",
+              "guzergah_isareti": "F    "
+            },
+            "gorev_sira": 1,
+            "sira_no": 1,
+            "saat": "2000-01-01T06:25:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "FERAH CAD.",
+            "yon": "G",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 84997,
+            "servis": {
+              "id": 44421,
+              "servis_no": 3
+            },
+            "guzergah": {
+              "id": 1,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 2,
+            "sira_no": 1,
+            "saat": "2000-01-01T07:15:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "D",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 84998,
+            "servis": {
+              "id": 44421,
+              "servis_no": 3
+            },
+            "guzergah": {
+              "id": 4,
+              "depar_no": 2783,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_G_D2783",
+              "guzergah_isareti": "F    "
+            },
+            "gorev_sira": 3,
+            "sira_no": 2,
+            "saat": "2000-01-01T08:25:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "FERAH CAD.",
+            "yon": "G",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 84999,
+            "servis": {
+              "id": 44421,
+              "servis_no": 3
+            },
+            "guzergah": {
+              "id": 2,
+              "depar_no": 2784,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D2784",
+              "guzergah_isareti": "F    "
+            },
+            "gorev_sira": 4,
+            "sira_no": 2,
+            "saat": "2000-01-01T09:45:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "FERAH CAD.",
+            "yon": "D",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 85000,
+            "servis": {
+              "id": 44421,
+              "servis_no": 3
+            },
+            "guzergah": {
+              "id": 3,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_G_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 5,
+            "sira_no": 3,
+            "saat": "2000-01-01T10:45:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "G",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 85001,
+            "servis": {
+              "id": 44421,
+              "servis_no": 3
+            },
+            "guzergah": {
+              "id": 1,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 6,
+            "sira_no": 3,
+            "saat": "2000-01-01T11:45:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "D",
+            "sefer_tipi": "S",
+            "plan": 1
+          },
+          {
+            "id": 85002,
+            "servis": {
+              "id": 44421,
+              "servis_no": 3
+            },
+            "guzergah": {
+              "id": 3,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_G_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 7,
+            "sira_no": 4,
+            "saat": "2000-01-01T12:45:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "G",
+            "sefer_tipi": "S",
+            "plan": 1
+          }
+        ],
+        "servis_bilgiler": [
+          {
+            "id": 36,
+            "vardiya_tipi": "C",
+            "plan": 1,
+            "arac_tipi": {
+              "id": 8,
+              "arac_tipi": "Solo"
+            },
+            "servis_tipi": {
+              "id": 5,
+              "servis_tipi": "Normal"
+            },
+            "servis": {
+              "id": 44421,
+              "servis_no": 3
+            },
+            "gar": null,
+            "garaj": {
+              "id": 5249880,
+              "ase_garaj": "Anadolu"
+            },
+            "sira_no": 2,
+            "servis_basi": "220051",
+            "servis_sonu": "412031",
+            "basl_saati": "2000-01-01T06:25:00Z",
+            "bitis_saati": "2000-01-01T13:45:00Z",
+            "mesai_dk": "475",
+            "garaj_cikis": "2000-01-01T05:50:00Z",
+            "garaj_varis": null,
+            "ara_dinlen_serv_bitis": null,
+            "ara_dinlen_gar_varis": null,
+            "ara_dinlen_gar_cikis": null,
+            "ara_dinlen_serv_basl": null,
+            "aciklama": ""
+          }
+        ],
+        "servis_no_araliklar": [],
+        "hat_notlar": {
+          "id": 2,
+          "not_alani": "1- GAR YERİ HAREM'DİR.\r\n2-(F)İŞARETLİ SAATLER FERAH CADDESİNDEN GİDER."
+        },
+        "hat_bilgiler": {
+          "hat_tipi": "NORMAL",
+          "tarife": "İNDİRİMLİ",
+          "orer_sorumlusu": "MUZAFFER ALKAN",
+          "planlama_sefi": "ONUR KAYNAR",
+          "isletme_sefligi": "Üsküdar"
+        }
+      },
+      "id": "1d4c"
+    },
+    {
+      "gün_tipi_id": 1,
+      "hat_kodu_id": 709,
+      "servis_no": 4,
+      "detay": {
+        "orerler": [
+          {
+            "id": 84989,
+            "servis": {
+              "id": 44419,
+              "servis_no": 4
+            },
+            "guzergah": {
+              "id": 1,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 1,
+            "sira_no": 1,
+            "saat": "2000-01-01T13:45:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "D",
+            "sefer_tipi": "A",
+            "plan": 1
+          },
+          {
+            "id": 84990,
+            "servis": {
+              "id": 44419,
+              "servis_no": 4
+            },
+            "guzergah": {
+              "id": 3,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_G_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 2,
+            "sira_no": 2,
+            "saat": "2000-01-01T15:05:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "G",
+            "sefer_tipi": "A",
+            "plan": 1
+          },
+          {
+            "id": 84991,
+            "servis": {
+              "id": 44419,
+              "servis_no": 4
+            },
+            "guzergah": {
+              "id": 1,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 3,
+            "sira_no": 2,
+            "saat": "2000-01-01T16:25:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "D",
+            "sefer_tipi": "A",
+            "plan": 1
+          },
+          {
+            "id": 84992,
+            "servis": {
+              "id": 44419,
+              "servis_no": 4
+            },
+            "guzergah": {
+              "id": 3,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_G_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 4,
+            "sira_no": 3,
+            "saat": "2000-01-01T17:45:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "G",
+            "sefer_tipi": "A",
+            "plan": 1
+          },
+          {
+            "id": 84993,
+            "servis": {
+              "id": 44419,
+              "servis_no": 4
+            },
+            "guzergah": {
+              "id": 1,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 5,
+            "sira_no": 3,
+            "saat": "2000-01-01T19:05:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "D",
+            "sefer_tipi": "A",
+            "plan": 1
+          },
+          {
+            "id": 84994,
+            "servis": {
+              "id": 44419,
+              "servis_no": 4
+            },
+            "guzergah": {
+              "id": 3,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_G_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 6,
+            "sira_no": 4,
+            "saat": "2000-01-01T20:00:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "G",
+            "sefer_tipi": "A",
+            "plan": 1
+          },
+          {
+            "id": 84995,
+            "servis": {
+              "id": 44419,
+              "servis_no": 4
+            },
+            "guzergah": {
+              "id": 1,
+              "depar_no": 0,
+              "hat_kodu": "1",
+              "ring_mi": false,
+              "guzergah_kodu": "1_D_D0",
+              "guzergah_isareti": ""
+            },
+            "gorev_sira": 7,
+            "sira_no": 4,
+            "saat": "2000-01-01T20:45:00Z",
+            "saat_gozuksunmu": true,
+            "aciklama": "",
+            "yon": "D",
+            "sefer_tipi": "A",
+            "plan": 1
+          }
+        ],
+        "servis_bilgiler": [
+          {
+            "id": 45,
+            "vardiya_tipi": "C",
+            "plan": 1,
+            "arac_tipi": {
+              "id": 8,
+              "arac_tipi": "Solo"
+            },
+            "servis_tipi": {
+              "id": 5,
+              "servis_tipi": "Normal"
+            },
+            "servis": {
+              "id": 44419,
+              "servis_no": 4
+            },
+            "gar": null,
+            "garaj": {
+              "id": 5249880,
+              "ase_garaj": "Anadolu"
+            },
+            "sira_no": 2,
+            "servis_basi": "412031",
+            "servis_sonu": "220051",
+            "basl_saati": "2000-01-01T13:45:00Z",
+            "bitis_saati": "2000-01-01T21:20:00Z",
+            "mesai_dk": "480",
+            "garaj_cikis": null,
+            "garaj_varis": "2000-01-01T21:45:00Z",
+            "ara_dinlen_serv_bitis": null,
+            "ara_dinlen_gar_varis": null,
+            "ara_dinlen_gar_cikis": null,
+            "ara_dinlen_serv_basl": null,
+            "aciklama": ""
+          }
+        ],
+        "servis_no_araliklar": [],
+        "hat_notlar": {
+          "id": 2,
+          "not_alani": "1- GAR YERİ HAREM'DİR.\r\n2-(F)İŞARETLİ SAATLER FERAH CADDESİNDEN GİDER."
+        },
+        "hat_bilgiler": {
+          "hat_tipi": "NORMAL",
+          "tarife": "İNDİRİMLİ",
+          "orer_sorumlusu": "MUZAFFER ALKAN",
+          "planlama_sefi": "ONUR KAYNAR",
+          "isletme_sefligi": "Üsküdar"
+        }
+      },
+      "id": "e9c6"
+    }
+  ]
+}

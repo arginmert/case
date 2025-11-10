@@ -1,0 +1,66 @@
+{
+  "gidis_yon": [
+    {
+      "id": 55906,
+      "depar_no": 0,
+      "ring_mi": false,
+      "guzergah_kodu": "ARN9_G_D0"
+    },
+    {
+      "id": 55829,
+      "depar_no": 0,
+      "ring_mi": false,
+      "guzergah_kodu": "SM11_G_D0"
+    },
+    {
+      "id": 56591,
+      "depar_no": 0,
+      "ring_mi": false,
+      "guzergah_kodu": "HS3_G_D0"
+    },
+    {
+      "id": 56593,
+      "depar_no": 0,
+      "ring_mi": false,
+      "guzergah_kodu": "MR54_G_D0"
+    },
+    {
+      "id": 55548,
+      "depar_no": 0,
+      "ring_mi": true,
+      "guzergah_kodu": "TM19_G_D0"
+    }
+  ],
+  "donus_yon": [
+    {
+      "id": 56544,
+      "depar_no": 0,
+      "ring_mi": false,
+      "guzergah_kodu": "10G_D_D0"
+    },
+    {
+      "id": 55934,
+      "depar_no": 0,
+      "ring_mi": false,
+      "guzergah_kodu": "SM5_D_D0"
+    },
+    {
+      "id": 56400,
+      "depar_no": 0,
+      "ring_mi": false,
+      "guzergah_kodu": "50Z_D_D0"
+    },
+    {
+      "id": 57255,
+      "depar_no": 0,
+      "ring_mi": false,
+      "guzergah_kodu": "132YS_D_D0"
+    },
+    {
+      "id": 53969,
+      "depar_no": 0,
+      "ring_mi": false,
+      "guzergah_kodu": "133TM_D_D0"
+    }
+  ]
+}
